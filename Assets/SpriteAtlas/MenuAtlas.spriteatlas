@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MenuAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0f7c12fc67a55fd45bc6782baa722873, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bfd7f2d02bcb369458540a3a6e2cea7f, type: 3}
+  - {fileID: 21300000, guid: 07d868e0fd2a23942bd04c6dffb76ed7, type: 3}
+  - {fileID: 21300000, guid: 1258ac417dd158a48b05eeedb739c469, type: 3}
+  - {fileID: 21300000, guid: 7e47ad0249396044b852122a53251bb8, type: 3}
+  - {fileID: 21300000, guid: 28c51f93b6260224c867f45f411a0e85, type: 3}
+  - {fileID: 21300000, guid: 54af60d343d3e3b458ad7e97dd60dd04, type: 3}
+  - {fileID: 21300000, guid: 1b289ca454f3cdf4ca785ab70305a4ad, type: 3}
+  - {fileID: 21300000, guid: 040be0e474e09894ca320b08d9462cc8, type: 3}
+  - {fileID: 21300000, guid: 7179ab86b28b8184e8b74e3a0b7fa821, type: 3}
+  - {fileID: 21300000, guid: f9f25bb6be8733f4894d60fe54097b1d, type: 3}
+  - {fileID: 21300000, guid: ce8637774427361428d758c6c49d138b, type: 3}
+  - {fileID: 21300000, guid: 60cfd84ae231a4943b3f0f6cf0dcf409, type: 3}
+  - {fileID: 21300000, guid: e019cd8c6a958a74bb226a0fd85030d6, type: 3}
+  - {fileID: 21300000, guid: a891673d61eb8784694e209367c6f79d, type: 3}
+  - {fileID: 21300000, guid: dbbf60cd0fb781e43aaac34dd180e356, type: 3}
+  - {fileID: 21300000, guid: d856e7dd0e8555f4fb29db6352b3a822, type: 3}
+  - {fileID: 21300000, guid: 25887e1e767bc774e9a24997a9343056, type: 3}
+  - {fileID: 21300000, guid: 64f5428e485e0204db94d129eab4847f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - bolt
+  - Circle green
+  - Orange gradient
+  - Gradient circle
+  - Red gradient
+  - Heart
+  - Healthbar
+  - Green gradient
+  - Blue outline gradient
+  - Green outline gradient
+  - Circle green full
+  - Blue gradient
+  - Circle blue full
+  - 'Circle blue '
+  - Circle yellow
+  - Red outline gradient
+  - Bolt colored
+  - Circle red full
+  m_RenderDataMap: {}
+  m_Tag: MenuAtlas
+  m_IsVariant: 0
